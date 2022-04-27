@@ -1,0 +1,40 @@
+Charge-discharge cycle thermodynamics for
+compression hydrogen storage system
+Jinsheng Xiao a,b,*
+, Pierre Benard b
+, Richard Chahine b
+a Hubei Key Laboratory of Advanced Technology for Automotive Components, Hubei Collaborative Innovation Center
+for Automotive Components Technology, School of Automobile Engineering, Wuhan University of Technology,
+Hubei 430070, China
+b Hydrogen Research Institute, Universite du Quebec a Trois-Rivi  eres, QC G9A 5H7, Canada
+article info
+Article history:
+Received 4 September 2015
+Received in revised form
+19 December 2015
+Accepted 20 December 2015
+Available online 3 March 2016
+Keywords:
+Hydrogen storage
+Compression
+Charge
+Discharge
+Thermodynamics
+Analytical solution
+abstract
+Knowledge of the evolution of the thermodynamic properties of hydrogen storage systems,
+such as temperature and pressure, is required in order to evaluate and optimize their
+performance. The thermodynamic models of hydrogen storage systems are based on the
+mass and energy balance equations. They can be expressed, for high level analysis, as
+lumped parameter or zero-dimensional models, which are represented as a set of ordinary
+differential equations. We present a simple thermodynamic model that can predict the
+charging and discharging of gaseous hydrogen, which allows, in specific situations, for
+analytical solutions of the temperature and the pressure as a function of time, and can be
+used to validate more detailed numerical models. From the analytical solution, the final
+hydrogen temperature of refueling can be expressed as a weighted average of initial, inflow
+and ambient temperatures. The weighted factors are related to other refueling parameters,
+such as initial mass, initial pressure, refueling time, refueling mass rate, average pressure
+ramp rate (APRR), final mass, final pressure, etc. This work may be extended to adsorptionbased or metal hydride hydrogen storage system. The analytical solutions can be used for
+sensitivity studies of hydrogen fueling standard.
+Copyright © 2016, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights
+reserved.
