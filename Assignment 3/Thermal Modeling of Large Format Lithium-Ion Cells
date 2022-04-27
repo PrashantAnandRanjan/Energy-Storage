@@ -1,0 +1,13 @@
+Thermal Modeling of Large Format Lithium-Ion Cells
+Nerea Nieto,a,z Luis D´ıaz,a Jon Gastelurrutia,a Isabel Alava,a Francisco Blanco,a Juan Carlos
+Ramos,b and Alejandro Rivasb
+aIKERLAN-IK4, Minano Menor, Alava 01510, Spain ˜ bTECNUN-University of Navarra, Donostia San Sebastian, Gipuzkoa 20018, Spain ´
+This paper describes a thermal model that represents the heat generation behavior of a large format (10.5 Ah) Li-ion pouch cell.
+The thermal model is based on the calculation of the heat generation from experimental measurements of internal resistance and
+the entropic heat coefficient. Predictions from the thermal model are compared with experimental adiabatic calorimetry data. Higher
+discharge rates and larger temperature operation ranges than the ones reported in prior studies are considered. Results from the
+thermal model simulations have a prediction error of 21% in comparison with the experimental ones for discharge processes carried
+out at moderate rates. For discharge processes carried out at high discharge rates a maximum prediction error of 15% has been
+determined. The advantages and disadvantages of the model are further discussed, taking into account aspects such as accuracy,
+model development and implementation in different thermal management system designs.
+© 2012 The Electrochemical Society. [DOI: 10.1149/2.042302jes] All rights reserved.
